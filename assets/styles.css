@@ -1,0 +1,10 @@
+/* Example of styling */
+h1 {
+    color: #2E8B57;
+    font-family: Arial, sans-serif;
+    text-align: center;
+}
+
+#map {
+    margin-top: 20px;
+}
